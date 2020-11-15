@@ -24,6 +24,13 @@ layout: default
     <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
   </header>
 
+  {% if page.source %}
+    <div class="mt2 clearfix">
+      <div class="sm-col sm-col-12 lg-col-12">
+        <div class="sm-col-8 center mx-auto" itemprop="source">Original Recipe Source: <a href="{{ page.source }}">{{ page.source }}</a></div>
+      </div>
+    </div>
+  {% endif %}
   <div class="px2 mt3 clearfix">
     <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}</div>
   </div>
