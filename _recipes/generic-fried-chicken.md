@@ -1,7 +1,9 @@
 ---
-
 layout: recipe
 title:  "Generic Fried Chicken"
+image: generic-fried-chicken.jpg
+imagecredit: https://www.spendwithpennies.com/crispy-chicken-sandwich/
+source: "[Spend with Pennies](https://www.spendwithpennies.com/crispy-chicken-sandwich/)"
 tags: main, chicken, fried, deep-fried
 
 ingredients:

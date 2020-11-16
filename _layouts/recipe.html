@@ -27,7 +27,7 @@ layout: default
   {% if page.source %}
     <div class="mt2 clearfix">
       <div class="sm-col sm-col-12 lg-col-12">
-        <div class="sm-col-8 center mx-auto" itemprop="source">Original Recipe Source: <a href="{{ page.source }}">{{ page.source }}</a></div>
+        <div class="sm-col-8 center mx-auto" itemprop="source">Original Recipe Source: {{ page.source | markdownify }}</div>
       </div>
     </div>
   {% endif %}

@@ -3,12 +3,13 @@
 layout: recipe
 title:  "Orange Chicken"
 image: orange-chicken.jpg
-source: https://www.youtube.com/watch?v=5Sa9nYKiYg0
+source: "[Tasty](https://www.youtube.com/watch?v=5Sa9nYKiYg0)"
 tags: mains, meat, rice, don, asian
 
 components:
 - Orange Chicken - Fried Chicken
 - Orange Chicken - Sauce / Glaze
+- Japanese White Rice
 
 ingredients:
 - Sesame Oil to serve
