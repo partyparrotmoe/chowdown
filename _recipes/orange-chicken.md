@@ -4,7 +4,7 @@ layout: recipe
 title:  "Orange Chicken"
 image: orange-chicken.jpg
 source: "[Tasty](https://www.youtube.com/watch?v=5Sa9nYKiYg0)"
-tags: mains, meat, rice, don, asian
+tags: mains meat rice don bowl asian
 
 components:
 - Orange Chicken - Fried Chicken
@@ -27,3 +27,5 @@ directions:
 ---
 
 The closest recipe we've found to Panda Express Orange Chicken.
+
+**Please be careful when working with hot oil** - if you haven't deep fried before, we'd recommend doing some research on the do's and don'ts.

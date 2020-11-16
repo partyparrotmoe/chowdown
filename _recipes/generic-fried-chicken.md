@@ -4,7 +4,7 @@ title:  "Generic Fried Chicken"
 image: generic-fried-chicken.jpg
 imagecredit: https://www.spendwithpennies.com/crispy-chicken-sandwich/
 source: "[Spend with Pennies](https://www.spendwithpennies.com/crispy-chicken-sandwich/)"
-tags: main, chicken, fried, deep-fried
+tags: main chicken fried deep-fried
 
 ingredients:
 - _Optional for brine:_ 1 quart water
@@ -33,3 +33,5 @@ directions:
 ---
 
 Creates a really generic but tasty fried chicken. Works surprisingly well the next day in bento boxes, or hot in sandwiches.
+
+**Please be careful when working with hot oil** - if you haven't deep fried before, we'd recommend doing some research on the do's and don'ts.

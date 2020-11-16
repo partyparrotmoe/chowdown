@@ -5,7 +5,7 @@ title:  "Teriyaki Chicken"
 image: teriyaki-chicken.jpg
 imagecredit: https://www.nhk.or.jp/dwc/recipes/detail/485.html
 source: "[Dining with the Chef / Rika's Tokyo Cuisine (NHK World)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/6031002/)"
-tags: mains, chicken, meat, rice, don, asian
+tags: mains chicken meat rice don asian
 
 components:
 - Teriyaki Sauce
